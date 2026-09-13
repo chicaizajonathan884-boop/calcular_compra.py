@@ -1,5 +1,6 @@
 ## Pseudocódigo
 
+```text
 INICIO
 
 FUNCION calcularCompra(precio, cantidad)
@@ -13,7 +14,7 @@ resultado ← calcularCompra(precio, cantidad)
 IMPRIMIR resultado
 
 FIN
-
+```
 
 # Función para calcular el total de una compra
 
